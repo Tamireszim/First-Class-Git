@@ -1,6 +1,6 @@
 var qg = prompt("Digite a qtd de gols")
 var qc = prompt("Digite a Qtd de Passes Certos")
-var qe = prompt("Digite a Qtd de Passes Errado")
+var qe = prompt("Digite a Qtd de Passes Errados")
 
 var pontos = (qg * 50) + (qe * 10) + (qc * - 5);
     alert("Total de Pontuação: " + pontos)
