@@ -9,3 +9,5 @@ Aula01.js
 Primeiro projeto de testes dos códigos
 
 Aula02.js
+
+## Terceiro Código em JavaScript
